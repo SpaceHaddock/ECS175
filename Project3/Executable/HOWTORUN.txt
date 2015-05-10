@@ -1,0 +1,2 @@
+Linux compatible program
+Run the ECS_Project3 file to execute the program

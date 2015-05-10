@@ -1,0 +1,2 @@
+Linux compatible program
+Run the Project4 file to execute the program

@@ -1,0 +1,1 @@
+Program for creating bezier curves and splines. Implements the algorithms from scratch and allows for standard mouse input to move vertices of curves.

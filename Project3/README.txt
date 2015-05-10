@@ -1,0 +1,1 @@
+Program which provides UI for colored polygon and rendering it. Rendering is entirely written from scratch using just the algorithms to calculate color and shape.
